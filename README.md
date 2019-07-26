@@ -49,5 +49,6 @@ At the end of this section, I suggest you read the [Contributing Guide](Contribu
 3. start the development server with `npm run serve`
 4. make changes
 5. build with `npm run build`
+6. or using `cnpm` replaced of `npm`, `cnpm` is a mirror of `npm`, maintained by taobao  
 
 
