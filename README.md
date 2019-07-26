@@ -37,7 +37,7 @@ See [Changelog](Changelog.md)
 
 ## How to Contribute 
 
-For those who want to request new features or submit bug reports, click [this link](https://github.com/bestony/logoly/issues/new/choose) to open a new issue.
+For those who want to request new features or submit bug reports, click [this link](https://github.com/guobinhit/logoly/issues/new/choose) to open a new issue.
 
 For those who want to play around with this project, read the `Get Started` section.
 
@@ -55,15 +55,4 @@ At the end of this section, I suggest you read the [Contributing Guide](Contribu
 4. make changes
 5. build with `npm run build`
 
-## Releated Project
 
-- [Logoly.pro MiniProgram](https://github.com/GHLandy/logoly-pro)
-
-## Sponsors
-
-[<img src="https://postimg.aliavv.com/picgo/20190331211014.png" height=40>](http://www.leancloud.app/)
-
-
-## LICENSE
-
-[WTFPL 2](LICENSE)
