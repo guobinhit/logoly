@@ -23,9 +23,9 @@ h2
 <template>
     <div class="author">
         <div class="info">
-            <img class="avatar" src="../assets/avatar.png" alt="bestony">
-            <h2> Bestony</h2>
-            <h4>An indie developer / Focus on something interesting.</h4>
+            <!--<img class="avatar" src="../assets/chariesgavin.jpg" alt="chariesgavin">-->
+            <h2> Charies Gavin</h2>
+            <h4>Stay Hungry, Stay Foolish.</h4>
         </div>
         <div class="social">
             <a class="github" href="https://github.com/guobinhit"><i class="iconfont icon-github"></i> GitHub</a>

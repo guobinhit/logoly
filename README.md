@@ -2,15 +2,15 @@
 <img src="https://i.loli.net/2019/03/24/5c9681455a5a2.png" alt="logo" title="logo" />
 </a>
 
-# Logoly —— A Pornhub Flavour Logo Generator
+# mLogoly —— A Pornhub Flavour Logo Generator
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6095e928-6e66-4f72-8c7a-ba75f4db70f3/deploy-status)](https://app.netlify.com/sites/logoly/deploys)![GitHub last commit](https://img.shields.io/github/last-commit/bestony/logoly.svg)![GitHub issues](https://img.shields.io/github/issues/bestony/logoly.svg)![GitHub stars](https://img.shields.io/github/stars/bestony/logoly.svg?style=social)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6095e928-6e66-4f72-8c7a-ba75f4db70f3/deploy-status)](https://app.netlify.com/sites/logoly/deploys)![GitHub last commit](https://img.shields.io/github/last-commit/guobinhit/mlogoly.svg)![GitHub issues](https://img.shields.io/github/issues/guobinhit/mlogoly.svg)![GitHub stars](https://img.shields.io/github/stars/guobinhit/mlogoly.svg?style=social)
 
 **A Simple Online Logo Generator for People Who Want to Design Logos Easily.**
 
 ## Screenshot
 
-![](https://i.loli.net/2019/03/24/5c96e02e97aff.png)
+![mlogoly](https://img-blog.csdnimg.cn/2019072615022673.png))
 
 ## Features
 
@@ -21,7 +21,7 @@
 
 ## How to Use
 
-1. origin project open the Logoly website: [https://logoly.pro/](https://logoly.pro/)
+1. open the origin project Logoly website: [https://logoly.pro/](https://logoly.pro/)
 2. edit the text in the box
 3. change color & font size as you like
 4. click the `Export` button to download the image

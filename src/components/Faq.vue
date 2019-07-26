@@ -1,5 +1,5 @@
 <style lang="stylus" scoped>
-li 
+li
     color #fff
 </style>
 
@@ -20,7 +20,7 @@ li
                 </li>
                 <li>
                     <p>Q: Can I use the generated logo for personal or commercial purposes? </p>
-                    <p>A: The generated logo fully belongs to you. You can use it freely for any purposes. Though credit is always appreciated.</p>
+                    <p>A: The generated logo fully belongs to you. You can use it freely for any purposes.</p>
                 </li>
             </ol>
         </p>

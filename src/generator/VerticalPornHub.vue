@@ -154,12 +154,12 @@ export default {
                 canvas.height = image.height;
                 let context = canvas.getContext("2d");
                 context.drawImage(image, 0, 0, image.width, image.height);
-                let url = canvas.toDataURL("image/png"); 
-                let a = document.createElement("a"); 
-                let event = new MouseEvent("click"); 
-                a.download = name || "photo"; 
-                a.href = url; 
-                a.dispatchEvent(event); 
+                let url = canvas.toDataURL("image/png");
+                let a = document.createElement("a");
+                let event = new MouseEvent("click");
+                a.download = name || "photo";
+                a.href = url;
+                a.dispatchEvent(event);
             };
             image.src = imgsrc;
         },
@@ -175,7 +175,7 @@ export default {
         twitter(){
             this.$ga.event('social', 'action', 'twitter', 1)
             let url = "https://logoly.pro"
-            let text = encodeURIComponent(`Built with #LogolyPro, by @xiqingongzi ${url}`)
+            let text = encodeURIComponent(`Built with #mLogolyPro, by @guobinhit ${url}`)
             window.open(`https://twitter.com/intent/tweet?text=${text}`)
         }
     },

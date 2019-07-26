@@ -15,11 +15,11 @@ p
 <template>
     <div class="slogan">
         <h3>
-            <span class="prefix">Logoly</span>
+            <span class="prefix">mLogoly</span>
             <span class="postfix">Pro</span>
         </h3>
         <p>
-            Logoly.pro is a creative logo generator, you can generate logo similar to Pornhub, YouTube, and more.
+            mLogoly.pro is a creative logo generator, you can generate logo similar to Pornhub, YouTube, and more.
             <br><br>
             <strong style="color:#f90">
             If you think this project is funny, please
