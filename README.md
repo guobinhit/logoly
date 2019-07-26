@@ -1,5 +1,5 @@
 <p class="text-align:center">
-<img src="https://github.com/guobinhit/mlogoly/blob/master/images/mlogoly-pro.png" alt="logo" title="logo" />
+<img src="https://github.com/guobinhit/mlogoly/blob/master/src/assets/mlogoly-pro.png" alt="logo" title="logo" />
 </a>
 
 # mLogoly —— A Pornhub Flavour Logo Generator
@@ -10,7 +10,7 @@
 
 ## Screenshot
 
-![homepage](https://github.com/guobinhit/mlogoly/blob/master/images/homepage.png)
+![homepage](https://github.com/guobinhit/mlogoly/blob/master/src/assets/homepage.png)
 
 ## Features
 
