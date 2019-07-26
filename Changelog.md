@@ -1,4 +1,10 @@
 # Changelog
+
+## 2019.07.25
+
+1. Fork project of「[logoly](https://github.com/bestony/logoly)」from 「[HuanCheng Bai
+](https://github.com/bestony)」
+
 ## 2019.05.04
 1. Fix Typo at Slogan.vue
 2. Add vuex for keep text while switch layout
@@ -6,7 +12,7 @@
 
 ## 2019.03.26
 
-1. add Vertical Pornhub Logo
+1. Add Vertical Pornhub Logo
 
 ## 2019.03.25
 

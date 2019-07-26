@@ -23,7 +23,7 @@ p
             <br><br>
             <strong style="color:#f90">
             If you think this project is funny, please
-            <a href="https://github.com/guobinhit/logoly">
+            <a href="https://github.com/guobinhit/mlogoly">
             <img src="https://img.shields.io/badge/give%20me-a%20star-green.svg" />
             </a>
             </strong>

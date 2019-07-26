@@ -6,7 +6,7 @@ a
 </style>
 
 <template>
-    <a href="https://github.com/guobinhit/logoly" target="_blank">
+    <a href="https://github.com/guobinhit/mlogoly" target="_blank">
     <img
         width="149"
         height="149"

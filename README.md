@@ -21,23 +21,18 @@
 
 ## How to Use
 
-1. open the Logoly website: [https://logoly.pro/](https://logoly.pro/)
+1. origin project open the Logoly website: [https://logoly.pro/](https://logoly.pro/)
 2. edit the text in the box
 3. change color & font size as you like
-4. click the **Export** button to download the image
-
-## TODO
-
-- share it on Facebook
-- customize fonts
+4. click the `Export` button to download the image
 
 ## Changelog
 
-See [Changelog](Changelog.md)
+See [Changelog](Changelog.md).
 
 ## How to Contribute 
 
-For those who want to request new features or submit bug reports, click [this link](https://github.com/guobinhit/logoly/issues/new/choose) to open a new issue.
+For those who want to request new features or submit bug reports, click [this link](https://github.com/guobinhit/mlogoly/issues/new/choose) to open a new issue.
 
 For those who want to play around with this project, read the `Get Started` section.
 
