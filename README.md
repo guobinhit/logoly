@@ -4,7 +4,7 @@
 
 # mLogoly —— A Pornhub Flavour Logo Generator
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6095e928-6e66-4f72-8c7a-ba75f4db70f3/deploy-status)](https://app.netlify.com/sites/logoly/deploys)![GitHub last commit](https://img.shields.io/github/last-commit/guobinhit/mlogoly.svg)![GitHub issues](https://img.shields.io/github/issues/guobinhit/mlogoly.svg)![GitHub stars](https://img.shields.io/github/stars/guobinhit/mlogoly.svg)
+![author](https://img.shields.io/badge/author-chariesgavin-blueviolet.svg)![lover](https://img.shields.io/badge/lover-xiaoxue-red.svg)![last commit](https://img.shields.io/github/last-commit/guobinhit/mlogoly.svg)![issues](https://img.shields.io/github/issues/guobinhit/mlogoly.svg)![stars](https://img.shields.io/github/stars/guobinhit/mlogoly.svg)
 
 **A Simple Online Logo Generator for People Who Want to Design Logos Easily.**
 
